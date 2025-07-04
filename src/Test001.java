@@ -3,6 +3,6 @@
  */
 public class Test001 {
     public static void main(String[] args) {
-        System.out.println("就这eeeeeee");
+        System.out.println("就这");
     }
 }
